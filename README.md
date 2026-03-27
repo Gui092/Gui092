@@ -80,8 +80,8 @@ const Guilherme = {
 
 <div align="center">
 
-| ![Status do GitHub](https://github-readme-stats.vercel.app/api?username=Gui092&show_icons=true&theme=tokyonight&title_color=7aa2f7&icon_color=bb9af7&text_color=ffffff&bg_color=1a1b26) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui092&layout=compact&theme=tokyonight&title_color=7aa2f7&text_color=ffffff&bg_color=1a1b26) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Linguagens mais usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gui092&layout=compact&theme=tokyonight&title_color=7aa2f7&text_color=ffffff&bg_color=1a1b26&cache_seconds=86400) | ![Status do GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gui092&show_icons=true&theme=tokyonight&title_color=7aa2f7&icon_color=bb9af7&text_color=ffffff&bg_color=1a1b26&cache_seconds=86400) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 | ![Contribuições](https://streak-stats.demolab.com?user=Gui092&theme=tokyonight&ring=bb9af7&fire=7aa2f7&stroke=ffffff) | ![Seus Repositórios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gui092&theme=tokyonight) |
 | :-------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
